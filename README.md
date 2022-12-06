@@ -6,3 +6,6 @@ int main() {
    return 0;
 }
 "create hello.c"
+a==0|a==1
+b=0
+a=1
