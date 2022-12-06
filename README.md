@@ -9,3 +9,5 @@ int main() {
 a==0|a==1
 b=0
 a=1
+sgah
+jdj
